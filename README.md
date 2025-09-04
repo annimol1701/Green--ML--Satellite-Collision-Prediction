@@ -57,4 +57,4 @@ We use a **Decision Tree Classifier**, which is lightweight, transparent, and co
 ---
 
 ## 👩‍💻 Author
-**Anni Mol** — B.Tech IT | Aspiring Data Scientist | Passionate about Green AI & Space Sustainability 🌍✨
+**Annimol R B** — B.Tech IT | Aspiring Data Scientist | Passionate about Green AI & Space Sustainability 🌍✨
