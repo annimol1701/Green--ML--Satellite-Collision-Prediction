@@ -1,5 +1,3 @@
-# Green--ML--Satellite-Collision-Prediction
-Green Machine Learning prototype for predicting satellite collision risk using Decision Tree.
 # 🌍 Green ML for Satellite Collision Prediction 🚀
 
 This project demonstrates how **Green Machine Learning (lightweight ML)** can help in **Space Sustainability** by predicting satellite collision risk efficiently.  
@@ -32,3 +30,31 @@ We use a **Decision Tree Classifier**, which is lightweight, transparent, and co
 | 7200       | 8.1             | 3              | High |
 
 ### Model Accuracy
+### Decision Tree Visualization
+![Decision Tree](tree_example.png)
+
+### Prediction Output
+---
+
+## 🌱 Why Green ML?
+- **Lightweight algorithm** → less computation.
+- **Energy efficient** → reduces carbon footprint.  
+- **Practical for onboard satellite AI** → runs on limited hardware.  
+
+---
+
+## 🚀 Future Scope
+- Use real satellite datasets (NASA, ESA).  
+- Compare with heavy models (Random Forest, Neural Networks).  
+- Deploy as a cloud-based API for satellite companies.  
+
+---
+
+## 📂 Files
+- `satellite_prediction.ipynb` → Jupyter Notebook with code.  
+- `README.md` → Project documentation.  
+
+---
+
+## 👩‍💻 Author
+**Anni Mol** — B.Tech IT | Aspiring Data Scientist | Passionate about Green AI & Space Sustainability 🌍✨
